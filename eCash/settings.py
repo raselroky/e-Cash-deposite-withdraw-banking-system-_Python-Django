@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'transaction',
     'register',
     'contacts',
+    'loan',
     'rest_framework',
 ]
 
