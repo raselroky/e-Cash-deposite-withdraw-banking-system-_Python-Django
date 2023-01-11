@@ -5,4 +5,4 @@ from . models import E_cash
 class RegisterSerializer(serializers.ModelSerializer):
     class Meta:
         model=E_cash
-        fields=__all__
+        fields=('__all__')
